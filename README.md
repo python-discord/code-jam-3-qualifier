@@ -5,7 +5,7 @@ In order to qualify for our third code jam, you must fix a piece of code which i
 * `git clone` this repo into a directory on your computer.
 * Try to run the code. The code will produce errors.
 * Figure out what's causing the errors, and fix the problems.
-* You should not change any of the existing methods, not should you change the code that's outside the class.  Your job is to add the missing code. Figure out what's missing, write the missing code, and run the program.
+* You should not change any of the existing methods, nor should you change the code that's outside the class.  Your job is to add the missing code. Figure out what's missing, write the missing code, and run the program.
 * If you have succeeded in fixing the code, it should show you an inventory like this:
 ```
 food                   armor             magic                    bitcoins
